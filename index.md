@@ -1,3 +1,3 @@
 # Index
 
-This is the landing page.
+This is the landing page for this website.
