@@ -7,5 +7,5 @@ version: 1.0
 
 This is a demo file.
 
-The {{page.version}} of this document was released on {{page.release}}
+The {{page.version}} version of this document was released in {{page.release}}.
 
