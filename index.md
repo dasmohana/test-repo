@@ -6,4 +6,4 @@ Making some random change.
 
 Experimenting with git commands.
 
-[Demo Page](https://github.com/dasmohana/test-repo/blob/main/demo.md)
+[Demo Page](https://github.com/dasmohana/test-repo/blob/main/demo.html)
