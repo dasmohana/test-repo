@@ -8,4 +8,4 @@ Experimenting with git commands.
 
 [Demo Page](demo.md)
 
-{{ include common2.txt }}
+{% include common2.txt %}
