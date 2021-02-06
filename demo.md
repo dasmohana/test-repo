@@ -10,3 +10,5 @@ This is a demo file.
 
 The {{page.version}} version of this document was released in {{page.release}}.
 
+Demo: {{ site.when }}
+
