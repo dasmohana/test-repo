@@ -12,3 +12,13 @@ The {{page.version}} version of this document was released in {{page.release}}.
 
 Demo: {{ site.when }}
 
+Data file contents
+
+{% for item in site.data.demo %}
+
+The country on {{ item.name }} was created in {{ item.date }}. Flag is {{ item.flag }}.
+
+{% endfor %}
+
+
+
