@@ -6,6 +6,6 @@ Making some random change.
 
 Experimenting with git commands.
 
-[Demo Page](demo.md)
+[Demo Page](topics/demo.md)
 
 {% include common2.txt %}
